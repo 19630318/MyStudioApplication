@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStudioApplication</string>
+    <string name="title_login">Log In</string>
+    <string name="user_name">Username\n</string>
+    <string name="user_email">Email</string>
+    <string name="not_accont">Don\'t have an account?</string>
+    <string name="sing_up">Sign Up \n</string>
+    <string name="sing_in">Log In</string>
+    <string name="error_login">Incorrect credentials</string>
+    <string name="name_error">Enter the name</string>
+    <string name="last_name_error">Enter the last name</string>
+    <string name="email_error">Enter the email</string>
+    <string name="password_error">Enter a password</string>
+    <string name="confirm_password_error">Enter the confirmation password</string>
+    <string name="email_incorrect">Invalid email</string>
+    <string name="password_incorrect">Password must be at least 8 characters long</string>
+    <string name="password_not_equals">Passwords do not match</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="title_register">Sign Up</string>
+    <string name="home_title">Home</string>
+    <string name="register_title">Registration</string>
+    <string name="title_products">PRODUCTS</string>
+</resources>

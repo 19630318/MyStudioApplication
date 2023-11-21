@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyStudioApplication</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="user_name">Nombre de usuario\n</string>
+    <string name="user_email">Correo electronico</string>
+    <string name="not_accont">¿No tienes cuenta?</string>
+    <string name="sing_up">Registrate \n</string>
+    <string name="sing_in">Iniciar sesión</string>
+    <string name="error_login">Datos incorrectos</string>
+    <string name="name_error">Ingresa el nombre</string>
+    <string name="last_name_error">Ingresa los apellidos</string>
+    <string name="email_error">Ingresa el correo electronico</string>
+    <string name="password_error">Ingresa una contraseña</string>
+    <string name="confirm_password_error">Ingresa la contraseña de confirmación</string>
+    <string name="email_incorrect">El email es invalido</string>
+    <string name="password_incorrect">La contraseña debe de tener al menos 8 caracteres</string>
+    <string name="password_not_equals">Las contraseñas no coinciden</string>
+    <string name="last_name">Apellidos</string>
+    <string name="password">Contraseña</string>
+    <string name="password_confirm">Repetir contraseña</string>
+    <string name="register">Registrarte</string>
+    <string name="title_register">Registrate</string>
+    <string name="home_title">Inicio</string>
+    <string name="register_title">Registro</string>
+    <string name="title_products">PRODUCTOS</string>
+</resources>
